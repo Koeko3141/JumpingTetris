@@ -5,6 +5,8 @@ Jumping Tetris combines the classical game “Tetris” with dynamic Jump’n’
 
 <img src="Jumping_Tetris_GameplayGif.gif" alt="Gameplay GIF" width="1020"/>
 
+Working repo: https://github.com/mbrsanovic2/JumpingTetris
+
 # Live demo
 Check out our live demo:
 https://drive.google.com/file/d/1aSKfveWnNR7zvSxKdCjV2NDpC4xXr6lg/view?usp=sharing
